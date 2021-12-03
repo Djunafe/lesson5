@@ -1,3 +1,5 @@
+"""Разработайте сокет сервер на основе библеотеки Asyncio"""
+
 from Socket import Socket
 import asyncio
 
